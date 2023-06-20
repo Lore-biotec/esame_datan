@@ -1,1 +1,1 @@
-# esame_datan
+# Data analysis exam 20/06/2023. Student: Licari Lorenzo
